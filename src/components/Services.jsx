@@ -12,7 +12,7 @@ const Services = () => {
   return (
     <div className="bg-[#0A2640] mt-[4%] flex justify-center items-center py-20 w-full">
       <div className="flex flex-col items-center w-[90%] md:w-[85%] ">
-        <h4 className="text-white mb-4">Our Services</h4>
+        <p className="text-[20px] text-[white] font-[400] mb-6">Our services</p>
         <h1 className="text-center w-[100%] md:w-[850px] text-white">
           Handshake infographic mass market crowdfunding iteration.
         </h1>
